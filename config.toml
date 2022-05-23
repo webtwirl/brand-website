@@ -1,6 +1,6 @@
 # Theme source code available at repo (https://gitlab.com/avron/gruvhugo"
 # Theme name is gruvhugo
-baseurl = "https://examplesite.com/"
+baseurl = "https://soft-lollipop-7d3178.netlify.app"
 title = "My Brand Website"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
